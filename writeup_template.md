@@ -189,4 +189,6 @@ Based on my implementation, I can see following scenarios on which the lane dete
 
 Two areas I can see improving the current implementation is:
 1. Exploring more color spaces and intelligent color thresholding techniques
-2. Making the window search algorithm for robust to detect only if the lane lines are present.
+2. Making the window search algorithm more robust will surely help.
+
+I will surely pursue to work further on this project to ensure a better and robust lane detection pipeline.
